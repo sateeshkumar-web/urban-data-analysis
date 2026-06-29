@@ -72,33 +72,9 @@ Created additional features such as:
 ---
 
 ## 📊 Data Visualization & Insights
+<img width="1370" height="896" alt="image" src="https://github.com/user-attachments/assets/a812225c-3ee6-4dc1-9d17-3222ae7500e7" />
 
-### 📌 Category Analysis
-Visualized trip categories to understand ride distribution.
 
-### 📌 Purpose Analysis
-Analyzed why trips were taken most frequently.
-
-### 📌 Time-Based Analysis
-Classified rides into:
-- Morning
-- Afternoon
-- Evening
-- Night
-
-### 📌 Monthly Analysis
-Extracted and analyzed monthly trip trends.
-
----
-
-## 📷 Sample Visualizations
-
-- Count Plot of Categories
-- Purpose Distribution
-- Day/Night Ride Analysis
-- Monthly Ride Trends
-
----
 
 ## 🚀 Project Workflow
 
@@ -116,15 +92,6 @@ Visualization & Insights
 
 ---
 
-## 📁 Project Structure
-
-```bash
-├── UberDataset.csv
-├── Uber_Trip_Analysis.ipynb
-├── README.md
-```
-
----
 
 ## ▶️ How to Run This Project
 
@@ -166,18 +133,6 @@ Open the notebook and run all cells.
 - Build interactive dashboards
 - Deploy project using Streamlit
 - Perform predictive trip analysis
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-If you'd like to improve this project:
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request
 
 ---
 
